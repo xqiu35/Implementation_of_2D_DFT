@@ -7,7 +7,7 @@ This implementation assume the input image has same height and width <br/>
 
 The code is present in dft.cc <br/>
 
-Tower is defual image data (256 x 256) <br/>
+Tower.txt is defual input image data (256 x 256) <br/>
 
 Defult using 16 CPUs to do DFT <br/>
 
