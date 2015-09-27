@@ -9,5 +9,5 @@ The code is present in dft.cc <br/>
 
 Tower is defual image data (256 x 256) <br/>
 
-Defult using 16 cpu to do DFT <br/>
+Defult using 16 CPUs to do DFT <br/>
 
